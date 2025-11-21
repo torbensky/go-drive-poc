@@ -17,6 +17,12 @@ coverage.*
 *.coverprofile
 profile.cov
 
+# local settings and state
+.go-drive-poc
+
+# build output directory
+dist
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
